@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome."
+title: "Welcome. San Francisco, California."
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
