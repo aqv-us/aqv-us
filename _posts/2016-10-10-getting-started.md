@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI. Data Insights. Decision Making."
+title: "Data. AI. Machine Learning."
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
