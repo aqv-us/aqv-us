@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to AQV"
+title: "Welcome."
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
