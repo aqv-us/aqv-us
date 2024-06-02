@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finance Transformation, Accounting & Tax"
+title: "Finance Transformation. Accounting & Tax."
 author: "AQV"
 categories: sample
 tags: [sample]
