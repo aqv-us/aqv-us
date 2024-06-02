@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Financial Statements & Tax"
+title: "Financial Statements"
 author: "AQV"
 categories: sample
 tags: [sample]
