@@ -4,7 +4,7 @@ title: "Financial Statements"
 author: "AQV"
 categories: sample
 tags: [sample]
-image: tax.jpg
+image: compass.jpg
 ---
 
 # Markdown Support
