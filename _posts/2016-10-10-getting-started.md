@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Analysis, AI & Machine Learning"
+title: "Data Analysis. AI. Machine Learning."
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
