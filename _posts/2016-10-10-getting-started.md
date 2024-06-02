@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
-image: tax.jpg
+image: newspaper.jpg
 ---
 
 # Millennial
