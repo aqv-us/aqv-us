@@ -4,7 +4,7 @@ title: "Resources"
 author: "AQV"
 categories: resources
 tags: [documentation,sample]
-image: frames.jpg
+image: compass.jpg
 ---
 
 The beauty of quantative methods is that you do not need to formally go to school to learn how to do it. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
