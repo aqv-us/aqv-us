@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "AQV"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: compass.jpg
 ---
 
 # Millennial
