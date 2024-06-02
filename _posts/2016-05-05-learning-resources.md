@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategy, Capital, Transactions"
+title: "Strategy. Capital. Transactions."
 author: "AQV"
 categories: resources
 tags: [documentation,sample]
