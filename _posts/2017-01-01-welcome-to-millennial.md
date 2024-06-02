@@ -4,7 +4,7 @@ title: "Welcome to AQV"
 author: "AQV"
 categories: documentation
 tags: [documentation,sample]
-image: ggb2.jpg
+image: transamerica.jpg
 ---
 
 AQV
