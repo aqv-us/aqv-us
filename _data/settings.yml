@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Spotlight', url: 'resources'}
-- {name: 'Reach Out', url: 'contact'}
+- {name: 'Spotlight', url: 'spotlight'}
+- {name: 'Reach Out', url: 'reachout'}
 - {name: 'Now', url: 'about'}
 
 
