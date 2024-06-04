@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Spotlight', url: 'spotlight'}
 - {name: 'Reach Out', url: 'reachout'}
-- {name: 'Now', url: 'about'}
+- {name: 'Now', url: 'now'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
