@@ -26,4 +26,6 @@ sharing_button_prompt: ''
 
 related_posts: ''
 
-post_date_prefix: 'Written on'
+post_date_prefix: ''
+
+hide_post_date: true
