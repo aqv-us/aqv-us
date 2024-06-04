@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AQV Now
-permalink: /about
+permalink: /now
 ---
 
 AQV is based in San Francisco, California.
